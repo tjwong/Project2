@@ -1,0 +1,10 @@
+ID,Name,State,PNGFilename,Text,x,y,visible
+0,NextIntro,Introduction,assets/startButton.png,,700,500,yes
+1,StartGame,Start,assets/startButton.png,,700,500,yes
+2,Continue,Instructions,,CONTINUE,700,500,yes
+3,greenhouseTree,TreeOne,,CUT DOWN THIS TREE,400,200,yes
+4,animalTree,TreeOne,,CUT DOWN THIS TREE,700,200,yes
+5,environmentTree,TreeTwo,,CUT DOWN THIS TREE,200,200,yes
+7,returnToTree,Animal2,,RETURN TO TREES,900,600,No
+8,returnToTree2,Environment2,,RETURN TO TREES,900,600,No
+9,returnToTree3,Greenhouse2,,RETURN TO TREES,900,600,No
